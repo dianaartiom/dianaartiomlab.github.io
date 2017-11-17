@@ -13,3 +13,12 @@ Member of the faculty Council,<br />
 FAF Seminars Responsible Organiser<br />
 QA Winify <br />
 <div class="custom-image"><img src="images/diana-swm.jpg" /></div>
+
+<div class="container">	
+
+	<div class="row">
+		<div class="column"><span class="column-demo">aoiresdhnuypodnh</span></div>
+		<div class="column column-50 column-offset-25"> column columnt offset 25</div>
+	</div>
+
+</div
